@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,aAAa,CAAC;EACV,KAAK,EAAE,IAAI;EACX,eAAe,EAAE,QAAQ;EACzB,YAAY,EAAE,MAAM;EACpB,UAAU,EAAE,cAAc;CAC3B;;AAID,AAAA,MAAM,CAAC,EAAE;AACT,MAAM,CAAC,EAAE,CAAC;EACN,UAAU,EAAE,MAAM;EACpB,MAAM,EAAE,cAAc;CACvB",
+    "sources": [
+        "../scss/blocks/blocks.scss",
+        "../scss/blocks/table.scss"
+    ],
+    "names": [],
+    "file": "blocks.css"
+}

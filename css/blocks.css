@@ -1,0 +1,14 @@
+.table__table {
+  width: 100%;
+  border-collapse: collapse;
+  border-style: hidden;
+  -webkit-box-shadow: 0 0 0 1px #000;
+          box-shadow: 0 0 0 1px #000;
+}
+
+.table th,
+.table td {
+  text-align: center;
+  border: 1px solid #000;
+}
+/*# sourceMappingURL=blocks.css.map */
